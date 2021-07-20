@@ -5,8 +5,6 @@ import io.restassured.response.Response;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.util.regex.Matcher;
-
 import static io.restassured.RestAssured.given;
 
 public class NewsApiTest {

@@ -9,5 +9,7 @@ public class ArrList {
         list.add("London");
         list.add("Moscow");
         list.add("Paris");
+
+        System.out.println(list.get(2));
     }
 }
